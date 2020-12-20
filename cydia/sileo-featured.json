@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://raw.githubusercontent.com/TylerJaacks/tylerjaacks.github.io/cydia/master/assets/Banners/RepoHeader.png",
+        "title": "Kelvin Weather",
+        "package": "com.tylerj.kelvinweather",
+        "hideShadow": false
+    }
+  ]
+}

@@ -1,14 +1,14 @@
-Package: 
-Section: 
-Maintainer: 
+Package: com.tylerj.kelvinweather
+Version: 1.0.0
 Architecture: iphoneos-arm
-Version: 
+Maintainer: Tyler Jaacks <TylerJaacks@Gmail.com>
 Depends: mobilesubstrate
-Filename: debs//
-Size: 
-MD5sum: 
-SHA1: 
-SHA256: 
-Description: 
-Name: 
-Author: name <TylerJaacks@Gmail.com>
+Filename: debs//com.tylerj.kelvinweather_1.0.0.deb
+Size: 1644
+MD5sum: c155caf3f7632fed329820c3608bba12
+SHA1: 3286ee4afc9f6dbe71d2bb2ea5255c5784b8d592
+SHA256: 0616e3aeb935958da7a8ecd2e6b9b6232e277e4e925140b1744e05e028469e46
+Section: Tweaks
+Description: Changes the Weather units to Kelvin.
+Author: Tyler Jaacks <TylerJaacks@Gmail.com>
+Name: Kelvin Weather
