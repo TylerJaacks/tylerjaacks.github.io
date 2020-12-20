@@ -1,5 +1,8 @@
-#the-canvas {
+#pdf-canvas {
     border: 1px solid black;
     direction: ltr;
+}
+
+#pdf-div {
     align-content: center;
 }
